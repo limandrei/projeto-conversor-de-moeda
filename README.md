@@ -6,5 +6,6 @@ Neste conversor é possível fazer conversão entre as seguintes moedas:<br>
 <li>Dólar Americano</li>
 <li>Libra Esterlina</li>
 <li>Bitcoin</li><br>
+<img src="https://github.com/limandrei/projeto-conversor-de-moeda/blob/main/assets/printscreen.png?raw=true">
 Em breve atualizações para inserções de novas moedas!</p>
 Clique <a href="https://limandrei.github.io/projeto-conversor-de-moeda/">aqui</a> para conhecer o projeto!
